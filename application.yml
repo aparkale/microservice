@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: akss-service
 eureka:
   instance:
     hostname: localhost
